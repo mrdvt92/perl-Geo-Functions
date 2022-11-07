@@ -1,0 +1,10 @@
+Changes
+lib/Geo/Functions.pm
+LICENSE
+CONTRIBUTING.md
+Makefile.PL
+MANIFEST
+META.yml
+README.md
+t/001_load.t
+perl-Geo-Functions.spec
